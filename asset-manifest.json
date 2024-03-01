@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bg-changer/static/css/main.6c14c112.css",
+    "main.js": "/bg-changer/static/js/main.d0644521.js",
+    "static/js/453.e78bf5ae.chunk.js": "/bg-changer/static/js/453.e78bf5ae.chunk.js",
+    "index.html": "/bg-changer/index.html",
+    "main.6c14c112.css.map": "/bg-changer/static/css/main.6c14c112.css.map",
+    "main.d0644521.js.map": "/bg-changer/static/js/main.d0644521.js.map",
+    "453.e78bf5ae.chunk.js.map": "/bg-changer/static/js/453.e78bf5ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c14c112.css",
+    "static/js/main.d0644521.js"
+  ]
+}
